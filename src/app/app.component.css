@@ -1,0 +1,22 @@
+p {
+  font-family: Lato;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #434343;
+}
+body {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/* Bajar el contenido del body porque la fixed navbar ocupa el top de la pantalla*/
+#divBody {
+  min-height: 75rem;
+  padding-top: 5rem;
+  padding-bottom: 4.5rem;
+}
+#titulo {
+  color: white;
+  font-family: monospace;
+}
